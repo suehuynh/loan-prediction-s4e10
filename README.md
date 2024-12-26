@@ -1,7 +1,7 @@
 # Classification with Playground Series - S4E10
 **Kaggle Playground October 2024** - Loan Approval Prediction
 
-[About September Challenge](https://www.kaggle.com/competitions/playground-series-s4e10)
+[About October Challenge](https://www.kaggle.com/competitions/playground-series-s4e10)
 
 **Goal:** The goal for this competition is to predict whether an applicant is approved for a loan.
 
